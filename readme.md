@@ -25,5 +25,6 @@ DMX512 LED RGB 射灯，景观灯。每个灯具需要设置一个起始地址�
 DMX512 协议的舞台灯光，除了RGB 三个通道以外，可能包括灯光转向的控制通道 。
 # 适合的Modular2 IO 扩展板
 M2-RS485X4 四RS-485 模块
-
+# 实例
+参见 [DMX512 项目](https://github.com/modular2/dmx512)
 
