@@ -15,12 +15,13 @@ DMX512帧以break 信号开始。大于22bit，或者88 us。一个起始码，�
 1111 1111|Dimmer Curve Select
 
 # DMX512 物理接口
-DMX512 使用RS485 接口，物理插头是5 针卡农头。   
-Male | Female |
------|--------|
-Pin 1 (screen)| Pin 1 (screen)|
-Pin 2 (Data -)| Pin 2 (Data -)|
-Pin 3 (Data +)| Pin 3 (Data +)|
+DMX512 使用RS485 接口，物理插头是5 针卡农头。 
+
+|Male | Female |
+|-----|--------|
+|Pin 1 (screen)| Pin 1 (screen)|
+|Pin 2 (Data -)| Pin 2 (Data -)|
+|Pin 3 (Data +)| Pin 3 (Data +)|
 # DMX512A 协议的使用
 DMX512 LED RGB 射灯，景观灯。每个灯具需要设置一个起始地址。  
 DMX512 协议的舞台灯光，除了RGB 三个通道以外，可能包括灯光转向的控制通道 。
